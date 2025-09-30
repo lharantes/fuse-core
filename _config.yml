@@ -17,7 +17,7 @@ name: Luiz Henrique Arantes
 subtitle: Cloud Solution Architect & Devops
 
 # Title attribute of HTML Page, uses 'name' from above if empty
-title: Luiz HenriqueE
+title: Luiz Henrique
 
 # Information for web crawlers / Google, all of them optional
 # 'description' and 'keywords' simply set the corresponding meta tags,
@@ -52,7 +52,7 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-avatar: "iamges/profile.jpg"
+avatar: "images/profile.jpg"
 #avatar: "images/jonathan_doe.jpg"
 #avatar:
 
