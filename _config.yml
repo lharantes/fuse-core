@@ -62,7 +62,7 @@ avatar: "iamges/profile.jpg"
 links:
   - linkedin:
       name: LinkedIn
-      show: false
+      show: true
       href: https://linkedin.com/in/luizhenriquearantes/
       icon: fab fa-linkedin
   - github:
@@ -74,7 +74,7 @@ links:
       name: Blog
       show: true
       href: https://arantes.net.br
-      icon: fas fa-book-atlas
+      icon: fas fa-book-open
   - email:
       name: Email
       show: true
